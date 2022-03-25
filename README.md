@@ -11,7 +11,7 @@ Este projeto foi criado com o intuito de colocar em prática meus conhecimentos 
 ## :sparkles: Features ##
 
 :heavy_check_mark: adicionar uma tarefa;\
-:heavy_check_mark: editar uma tarefa já salva 2;\
+:heavy_check_mark: editar uma tarefa já salva;\
 :heavy_check_mark: excluir uma tarefa;
 
 ###
