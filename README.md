@@ -2,13 +2,15 @@
 
 <br>
 
-## :dart: About ##
+<img src="./todo-list.png" alt="todo-list" />
+
+## :dart: About
 
 Este projeto foi criado com o intuito de colocar em prática meus conhecimentos adquiridos sobre a Linguagem JavaScript.
 
 ###
 
-## :sparkles: Features ##
+## :sparkles: Features
 
 :heavy_check_mark: adicionar uma tarefa;\
 :heavy_check_mark: editar uma tarefa já salva;\
@@ -16,7 +18,7 @@ Este projeto foi criado com o intuito de colocar em prática meus conhecimentos 
 
 ###
 
-## :rocket: Technologies ##
+## :rocket: Technologies
 
 - HTML;
 - CSS;

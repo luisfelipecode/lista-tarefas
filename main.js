@@ -28,7 +28,7 @@ function createEditButton(li) {
 	li.appendChild(span);
 	span.appendChild(btnEditar);
 	btnEditar.addEventListener('click', () => {
-		const input = document.querySelector('#tarefa');
+		const input = document.getElementById('tarefa');
 		input.value = li.innerText;
 		li.remove();
 		saveLocalStorage();
